@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795374959745,
+  "syncedAt": 1795375107721,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -28,7 +28,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795374788561,
-      "updatedAt": 1795374940577
+      "updatedAt": 1795375104689
     }
   },
   "tombstones": {
@@ -49,7 +49,7 @@
     "nb_personal": true,
     "page_welcome": true,
     "page_roadmap": true,
-    "nb_mws7tc93_4gknx": false
+    "nb_mws7tc93_4gknx": true
   },
   "lastColor": {
     "type": "bc",
