@@ -1,0 +1,142 @@
+{
+  "app": "Folio",
+  "version": 2,
+  "syncedAt": 1795374608903,
+  "notebooks": {
+    "nb_workspace": {
+      "id": "nb_workspace",
+      "name": "Product HQ",
+      "icon": "🚀",
+      "order": 0,
+      "createdAt": 1795371847180,
+      "updatedAt": 1795371847180
+    },
+    "nb_personal": {
+      "id": "nb_personal",
+      "name": "Personal",
+      "icon": "🌱",
+      "order": 1,
+      "createdAt": 1795371947180,
+      "updatedAt": 1795371947180
+    }
+  },
+  "pages": {
+    "page_welcome": {
+      "id": "page_welcome",
+      "parentId": null,
+      "notebookId": "nb_workspace",
+      "order": 0,
+      "title": "Welcome to Folio",
+      "icon": "✨",
+      "cover": "sky",
+      "content": "<h2>Notion-style notebooks, right in one file</h2><p>Tap into the title or body to reveal the formatting toolbar with <span data-tc=\"blue\">Notion text colors</span> and <span data-bc=\"yellow\">highlight colors</span>.</p><div class=\"callout-block\" data-bc=\"blue\"><span class=\"callout-icon\" contenteditable=\"false\">💡</span><div class=\"callout-body\">Type <code>/</code> anywhere to open the slash command menu, including <code>/page</code>, <code>/image</code>, or <code>/date</code>.</div></div><h3>Nested Sub-pages</h3><p><a class=\"subpage-link\" data-page-id=\"page_roadmap\" href=\"#page_roadmap\" contenteditable=\"false\"><span class=\"subpage-link-icon\">🗺️</span><span class=\"subpage-link-title\">Q4 Product Roadmap</span></a></p><div class=\"toggle-block open\"><div class=\"toggle-header\"><span class=\"toggle-arrow\" contenteditable=\"false\">▶</span><span class=\"toggle-summary\">Keyboard shortcuts &amp; tips</span></div><div class=\"toggle-content\">Press Ctrl/Cmd+K to quick-search, Ctrl/Cmd+N for a new page, or drag pages in the tree to reorder and nest them.</div></div>",
+      "tags": [
+        "guide",
+        "workspace"
+      ],
+      "pinned": true,
+      "favorite": true,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795350747180,
+      "updatedAt": 1795374176182
+    },
+    "page_roadmap": {
+      "id": "page_roadmap",
+      "parentId": "page_welcome",
+      "notebookId": "nb_workspace",
+      "order": 0,
+      "title": "Q4 Product Roadmap",
+      "icon": "🗺️",
+      "cover": "amber",
+      "content": "<p>Key initiatives for the quarter, organized with checklists and nested specs:</p><div class=\"checklist-item checked\"><input class=\"checklist-box\" type=\"checkbox\" checked=\"\"><span class=\"checklist-text\">Unlimited nested page hierarchy</span></div><div class=\"checklist-item checked\"><input class=\"checklist-box\" type=\"checkbox\" checked=\"\"><span class=\"checklist-text\">Pointer-based drag &amp; drop reordering</span></div><div class=\"checklist-item\"><input class=\"checklist-box\" type=\"checkbox\"><span class=\"checklist-text\">Prepare final release notes</span></div><p><a class=\"subpage-link\" data-page-id=\"page_launch_notes\" href=\"#page_launch_notes\" contenteditable=\"false\"><span class=\"subpage-link-icon\">📋</span><span class=\"subpage-link-title\">Launch Day Checklist</span></a></p>",
+      "tags": [
+        "roadmap",
+        "q4"
+      ],
+      "pinned": false,
+      "favorite": true,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795357947180,
+      "updatedAt": 1795370847180
+    },
+    "page_launch_notes": {
+      "id": "page_launch_notes",
+      "parentId": "page_roadmap",
+      "notebookId": "nb_workspace",
+      "order": 0,
+      "title": "Launch Day Checklist",
+      "icon": "📋",
+      "cover": "sage",
+      "content": "<p>This is a <strong>Level 2 sub-page</strong>! Check the clickable breadcrumb trail at the top: <em>Product HQ › Welcome to Folio › Q4 Product Roadmap › Launch Day Checklist</em>.</p><blockquote data-bc=\"purple\">“Great software feels effortless because every detail was considered.”</blockquote><pre><code># Final verification\nnpm run test &amp;&amp; npm run build</code></pre>",
+      "tags": [
+        "launch"
+      ],
+      "pinned": false,
+      "favorite": false,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795365147180,
+      "updatedAt": 1795369947180
+    },
+    "page_design": {
+      "id": "page_design",
+      "parentId": null,
+      "notebookId": "nb_workspace",
+      "order": 1,
+      "title": "Design Principles",
+      "icon": "🎨",
+      "cover": "",
+      "content": "<ul><li><span data-tc=\"green\">Clarity over clutter</span> — every control earns its space.</li><li><span data-tc=\"purple\">Tactile feedback</span> — smooth transitions, clear drop indicators, and instant undo.</li><li><span data-tc=\"orange\">Accessible everywhere</span> — 44px touch targets and full keyboard navigation.</li></ul>",
+      "tags": [
+        "design"
+      ],
+      "pinned": false,
+      "favorite": false,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795329147180,
+      "updatedAt": 1795361547180
+    },
+    "page_journal": {
+      "id": "page_journal",
+      "parentId": null,
+      "notebookId": "nb_personal",
+      "order": 0,
+      "title": "Weekly Reflection",
+      "icon": "☕",
+      "cover": "lavender",
+      "content": "<h3>Three Wins This Week</h3><ol><li>Finished reading <em>Thinking in Systems</em></li><li>Kept a consistent morning walk routine</li><li>Organized all project notes into nested pages</li></ol><hr><p>Focus for next week: <span data-bc=\"green\">Deep work blocks before noon</span>.</p>",
+      "tags": [
+        "journal",
+        "habits"
+      ],
+      "pinned": false,
+      "favorite": false,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795285947180,
+      "updatedAt": 1795343547180
+    }
+  },
+  "tombstones": {
+    "pages": {},
+    "notebooks": {}
+  },
+  "expanded": {
+    "nb_workspace": true,
+    "nb_personal": true,
+    "page_welcome": true,
+    "page_roadmap": true
+  },
+  "lastColor": {
+    "type": "bc",
+    "color": "yellow"
+  },
+  "settings": {
+    "theme": "dark",
+    "fontFamily": "system",
+    "fontSize": "medium"
+  }
+}
