@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795375708723,
+  "syncedAt": 1795375769542,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -29,14 +29,14 @@
       "title": "Test",
       "icon": "⭐",
       "cover": "",
-      "content": "",
+      "content": "<p></p><ul><li><br></li></ul>",
       "tags": [],
       "pinned": false,
       "favorite": false,
       "archived": false,
       "trashed": false,
       "createdAt": 1795374788561,
-      "updatedAt": 1795375135576
+      "updatedAt": 1795375739223
     },
     "page_mws814ka_lyb0z": {
       "id": "page_mws814ka_lyb0z",
@@ -53,7 +53,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795375187290,
-      "updatedAt": 1795375353675
+      "updatedAt": 1795375766093
     }
   },
   "tombstones": {
