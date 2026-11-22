@@ -1,29 +1,13 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795374827446,
+  "syncedAt": 1795374899710,
   "notebooks": {
-    "nb_workspace": {
-      "id": "nb_workspace",
-      "name": "Product HQ",
-      "icon": "🚀",
-      "order": 0,
-      "createdAt": 1795371847180,
-      "updatedAt": 1795371847180
-    },
-    "nb_personal": {
-      "id": "nb_personal",
-      "name": "Personal",
-      "icon": "🌱",
-      "order": 1,
-      "createdAt": 1795371947180,
-      "updatedAt": 1795371947180
-    },
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
       "name": "Check",
       "icon": "📓",
-      "order": 2,
+      "order": 0,
       "createdAt": 1795374824007,
       "updatedAt": 1795374824007
     }
@@ -32,7 +16,7 @@
     "page_mws7skwh_8t42u": {
       "id": "page_mws7skwh_8t42u",
       "parentId": null,
-      "notebookId": "nb_workspace",
+      "notebookId": "nb_mws7tc93_4gknx",
       "order": 0,
       "title": "Test",
       "icon": "📄",
@@ -44,7 +28,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795374788561,
-      "updatedAt": 1795374807331
+      "updatedAt": 1795374857747
     }
   },
   "tombstones": {
@@ -55,7 +39,10 @@
       "page_design": 1795374655137,
       "page_journal": 1795374655137
     },
-    "notebooks": {}
+    "notebooks": {
+      "nb_workspace": 1795374854040,
+      "nb_personal": 1795374857747
+    }
   },
   "expanded": {
     "nb_workspace": true,
