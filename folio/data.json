@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795374608903,
+  "syncedAt": 1795374637715,
   "notebooks": {
     "nb_workspace": {
       "id": "nb_workspace",
@@ -39,7 +39,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795350747180,
-      "updatedAt": 1795374176182
+      "updatedAt": 1795374634629
     },
     "page_roadmap": {
       "id": "page_roadmap",
