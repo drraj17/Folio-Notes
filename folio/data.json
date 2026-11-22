@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795375107721,
+  "syncedAt": 1795375156153,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -10,6 +10,14 @@
       "order": 0,
       "createdAt": 1795374824007,
       "updatedAt": 1795374824007
+    },
+    "nb_mws80dw9_4xrbf": {
+      "id": "nb_mws80dw9_4xrbf",
+      "name": "Trading",
+      "icon": "📓",
+      "order": 1,
+      "createdAt": 1795375152729,
+      "updatedAt": 1795375152729
     }
   },
   "pages": {
@@ -19,7 +27,7 @@
       "notebookId": "nb_mws7tc93_4gknx",
       "order": 0,
       "title": "Test",
-      "icon": "📄",
+      "icon": "⭐",
       "cover": "",
       "content": "",
       "tags": [],
@@ -28,7 +36,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795374788561,
-      "updatedAt": 1795375104689
+      "updatedAt": 1795375135576
     }
   },
   "tombstones": {
@@ -49,7 +57,8 @@
     "nb_personal": true,
     "page_welcome": true,
     "page_roadmap": true,
-    "nb_mws7tc93_4gknx": true
+    "nb_mws7tc93_4gknx": true,
+    "nb_mws80dw9_4xrbf": true
   },
   "lastColor": {
     "type": "bc",
