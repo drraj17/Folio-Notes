@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795375289744,
+  "syncedAt": 1795375350673,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -46,14 +46,14 @@
       "title": "Daily Notes",
       "icon": "📄",
       "cover": "",
-      "content": "<p><br><span class=\"date-chip\" data-date=\"2026-11-23\" contenteditable=\"false\"><svg viewBox=\"0 0 24 24\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line></svg><span class=\"date-chip-text\">Nov 23, 2026</span></span>&nbsp;<br></p><ul><li>Test</li></ul>",
+      "content": "<ul><li>Test</li></ul>",
       "tags": [],
       "pinned": false,
       "favorite": false,
       "archived": false,
       "trashed": false,
       "createdAt": 1795375187290,
-      "updatedAt": 1795375286216
+      "updatedAt": 1795375331647
     }
   },
   "tombstones": {
