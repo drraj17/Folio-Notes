@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795374762802,
+  "syncedAt": 1795374827446,
   "notebooks": {
     "nb_workspace": {
       "id": "nb_workspace",
@@ -18,9 +18,35 @@
       "order": 1,
       "createdAt": 1795371947180,
       "updatedAt": 1795371947180
+    },
+    "nb_mws7tc93_4gknx": {
+      "id": "nb_mws7tc93_4gknx",
+      "name": "Check",
+      "icon": "📓",
+      "order": 2,
+      "createdAt": 1795374824007,
+      "updatedAt": 1795374824007
     }
   },
-  "pages": {},
+  "pages": {
+    "page_mws7skwh_8t42u": {
+      "id": "page_mws7skwh_8t42u",
+      "parentId": null,
+      "notebookId": "nb_workspace",
+      "order": 0,
+      "title": "Test",
+      "icon": "📄",
+      "cover": "",
+      "content": "",
+      "tags": [],
+      "pinned": false,
+      "favorite": false,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795374788561,
+      "updatedAt": 1795374807331
+    }
+  },
   "tombstones": {
     "pages": {
       "page_welcome": 1795374655137,
@@ -35,7 +61,8 @@
     "nb_workspace": true,
     "nb_personal": true,
     "page_welcome": true,
-    "page_roadmap": true
+    "page_roadmap": true,
+    "nb_mws7tc93_4gknx": true
   },
   "lastColor": {
     "type": "bc",
