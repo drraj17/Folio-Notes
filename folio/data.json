@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795425881534,
+  "syncedAt": 1795441508662,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -44,7 +44,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795374788561,
-      "updatedAt": 1795408578438
+      "updatedAt": 1795441505614
     },
     "page_mws814ka_lyb0z": {
       "id": "page_mws814ka_lyb0z",
