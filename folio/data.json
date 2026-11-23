@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795417798808,
+  "syncedAt": 1795425881534,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -85,7 +85,7 @@
       "parentId": "page_mwsxd3gm_lh9ji",
       "notebookId": "nb_mwsxbowv_vj0t3",
       "order": 0,
-      "title": "",
+      "title": "Market Cap",
       "icon": "📄",
       "cover": "",
       "content": "",
@@ -95,7 +95,7 @@
       "archived": false,
       "trashed": false,
       "createdAt": 1795417778351,
-      "updatedAt": 1795417797269
+      "updatedAt": 1795417829631
     }
   },
   "tombstones": {
