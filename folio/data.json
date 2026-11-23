@@ -1,7 +1,7 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795408588494,
+  "syncedAt": 1795417673656,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
@@ -18,6 +18,14 @@
       "order": 0,
       "createdAt": 1795375152729,
       "updatedAt": 1795408544406
+    },
+    "nb_mwsxbowv_vj0t3": {
+      "id": "nb_mwsxbowv_vj0t3",
+      "name": "Learn Stock Market",
+      "icon": "📓",
+      "order": 2,
+      "createdAt": 1795417670623,
+      "updatedAt": 1795417670623
     }
   },
   "pages": {
@@ -75,7 +83,8 @@
     "page_welcome": true,
     "page_roadmap": true,
     "nb_mws7tc93_4gknx": true,
-    "nb_mws80dw9_4xrbf": true
+    "nb_mws80dw9_4xrbf": true,
+    "nb_mwsxbowv_vj0t3": true
   },
   "lastColor": {
     "type": "bc",
