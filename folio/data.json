@@ -1,31 +1,31 @@
 {
   "app": "Folio",
   "version": 2,
-  "syncedAt": 1795417673656,
+  "syncedAt": 1795417738651,
   "notebooks": {
     "nb_mws7tc93_4gknx": {
       "id": "nb_mws7tc93_4gknx",
       "name": "Check",
       "icon": "📓",
-      "order": 1,
+      "order": 2,
       "createdAt": 1795374824007,
-      "updatedAt": 1795375158823
+      "updatedAt": 1795417702233
     },
     "nb_mws80dw9_4xrbf": {
       "id": "nb_mws80dw9_4xrbf",
       "name": "Trading",
       "icon": "⭐",
-      "order": 0,
+      "order": 1,
       "createdAt": 1795375152729,
-      "updatedAt": 1795408544406
+      "updatedAt": 1795417702233
     },
     "nb_mwsxbowv_vj0t3": {
       "id": "nb_mwsxbowv_vj0t3",
       "name": "Learn Stock Market",
-      "icon": "📓",
-      "order": 2,
+      "icon": "🚀",
+      "order": 0,
       "createdAt": 1795417670623,
-      "updatedAt": 1795417670623
+      "updatedAt": 1795417702233
     }
   },
   "pages": {
@@ -62,6 +62,23 @@
       "trashed": false,
       "createdAt": 1795375187290,
       "updatedAt": 1795375771553
+    },
+    "page_mwsxd3gm_lh9ji": {
+      "id": "page_mwsxd3gm_lh9ji",
+      "parentId": null,
+      "notebookId": "nb_mwsxbowv_vj0t3",
+      "order": 0,
+      "title": "",
+      "icon": "📄",
+      "cover": "",
+      "content": "",
+      "tags": [],
+      "pinned": false,
+      "favorite": false,
+      "archived": false,
+      "trashed": false,
+      "createdAt": 1795417736134,
+      "updatedAt": 1795417736134
     }
   },
   "tombstones": {
